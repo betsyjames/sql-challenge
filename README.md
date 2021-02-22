@@ -10,10 +10,10 @@ A Folder: EmployeeSQL
 
 Inside of EmployeeSQL, following are added:
 
-ERD.png - ERD of the tables
-employee_db_schema.sql -  Schema to create the tables for each of the six CSV files.
-employee_db_queries.sql - The queries for data analysis
-sql.ipynb - A jupyter notebook that has the bonus part. Please add username/password to connect to the database.
+* ERD.png - ERD of the tables
+* employee_db_schema.sql -  Schema to create the tables for each of the six CSV files.
+* employee_db_queries.sql - The queries for data analysis
+* sql.ipynb - A jupyter notebook that has the bonus part. Please add username/password to connect to the database.
 
 ## Instructions
 
